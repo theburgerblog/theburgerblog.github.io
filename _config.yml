@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Florian Pfleiderer & Peter Oberwalder"
-  avatar : "/assets/images/burger-rendering.jpg"
+  avatar : "/assets/images/burger-rendering.png"
   bio    : "Our journey to the best smashed burger in vienna."
   # links:
   #   - label: "Website"

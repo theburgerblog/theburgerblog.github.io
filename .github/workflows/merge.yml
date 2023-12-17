@@ -1,4 +1,4 @@
-name: Auto-Merge
+name: check
 
 on:
   pull_request:
@@ -19,8 +19,10 @@ jobs:
         git config --global user.name "Florian Pfleiderer"
         git config --global user.email "florian@pfleiderer.at"
 
-    - name: Merge pull request
+    - name: Checkout PR
       run: |
         git fetch origin refs/pull/${{ github.event.pull_request.number }}/head:pr-${{ github.event.pull_request.number }}
-        git merge pr-${{ github.event.pull_request.number }} --no-edit --allow-unrelated-histories
-        git push origin HEAD
+
+      name: Bundle
+      run: |
+        bundle

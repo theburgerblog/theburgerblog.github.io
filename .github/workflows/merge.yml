@@ -16,11 +16,11 @@ jobs:
 
     - name: Set up Git
       run: |
-        git config --global user.name "Your Name"
-        git config --global user.email "your.email@example.com"
+        git config --global user.name "Florian Pfleiderer"
+        git config --global user.email "florian@pfleiderer.at"
 
     - name: Merge pull request
       run: |
         git fetch origin refs/pull/${{ github.event.pull_request.number }}/head:pr-${{ github.event.pull_request.number }}
-        git merge pr-${{ github.event.pull_request.number }} --no-edit
+        git merge pr-${{ github.event.pull_request.number }} --no-edit --allow-unrelated-histories
         git push origin HEAD

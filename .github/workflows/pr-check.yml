@@ -22,7 +22,3 @@ jobs:
     - name: Checkout PR
       run: |
         git fetch origin refs/pull/${{ github.event.pull_request.number }}/head:pr-${{ github.event.pull_request.number }}
-
-    - name: Bundle
-      run: |
-        bundle

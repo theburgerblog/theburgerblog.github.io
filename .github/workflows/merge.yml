@@ -22,5 +22,5 @@ jobs:
     - name: Merge pull request
       run: |
         git fetch origin refs/pull/${{ github.event.pull_request.number }}/head:pr-${{ github.event.pull_request.number }}
-        git merge pr-${{ github.event.pull_request.number }} --no-edit
+        git merge pr-${{ github.event.pull_request.number }} --no-edit --allow-unrelated-histories
         git push origin HEAD

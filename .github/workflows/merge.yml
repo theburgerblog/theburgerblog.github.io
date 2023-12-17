@@ -16,8 +16,8 @@ jobs:
 
     - name: Set up Git
       run: |
-        git config --global user.name "Your Name"
-        git config --global user.email "your.email@example.com"
+        git config --global user.name "Florian Pfleiderer"
+        git config --global user.email "florian@pfleiderer.at"
 
     - name: Merge pull request
       run: |

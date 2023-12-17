@@ -23,6 +23,6 @@ jobs:
       run: |
         git fetch origin refs/pull/${{ github.event.pull_request.number }}/head:pr-${{ github.event.pull_request.number }}
 
-      name: Bundle
+    - name: Bundle
       run: |
         bundle

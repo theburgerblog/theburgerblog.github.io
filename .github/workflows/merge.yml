@@ -1,0 +1,26 @@
+name: Auto-Merge
+
+on:
+  pull_request:
+    types:
+      - opened
+      - synchronize
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Git
+      run: |
+        git config --global user.name "Your Name"
+        git config --global user.email "your.email@example.com"
+
+    - name: Merge pull request
+      run: |
+        git fetch origin refs/pull/${{ github.event.pull_request.number }}/head:pr-${{ github.event.pull_request.number }}
+        git merge pr-${{ github.event.pull_request.number }} --no-edit
+        git push origin HEAD

@@ -29,6 +29,8 @@ lunr:
 atom_feed:
   hide: true
 
+teaser: /assets/images/burger-rendering.jpg
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes

@@ -29,7 +29,7 @@ lunr:
 atom_feed:
   hide: true
 
-teaser: /assets/images/burger-rendering.jpg
+layout: splash
 
 # Build settings
 markdown: kramdown

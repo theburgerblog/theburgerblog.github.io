@@ -29,8 +29,6 @@ lunr:
 atom_feed:
   hide: true
 
-layout: splash
-
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes

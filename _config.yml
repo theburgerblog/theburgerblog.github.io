@@ -62,10 +62,18 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : Florian Pfleiderer & Peter Oberwalder
-  avatar : "/assets/images/burger-rendering.jpg"
-  bio    : "It is our quest to find the best smashed burger in vienna."
+sidebar:
+  - title: "Florian Pfleiderer"
+    image: "/assets/images/burger-rendering.jpg"
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Peter Oberwalder"
+    text: "More text here."
+
+# author:
+#   name   : Florian Pfleiderer & Peter Oberwalder
+#   avatar : "/assets/images/burger-rendering.jpg"
+#   bio    : "It is our quest to find the best smashed burger in vienna."
   # links:
   #   - label: "Website"
   #     icon: "fas fa-fw fa-link"

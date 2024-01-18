@@ -63,9 +63,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : |
+  name   :
     Florian Pfleiderer 
-    Peter Oberwalder
+  name   : Peter Oberwalder
   # avatar : "/assets/images/burger-rendering.jpg"
   bio    : "It is our quest to find the best smashed burger in vienna."
   # links:

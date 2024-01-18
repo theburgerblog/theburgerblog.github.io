@@ -1,0 +1,18 @@
+current directory: /workspaces/theburgerblog.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+/usr/local/rvm/rubies/ruby-3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /workspaces/theburgerblog.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240118-4842-lmovbn sitelibdir\=./.gem.20240118-4842-lmovbn clean
+
+current directory: /workspaces/theburgerblog.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240118-4842-lmovbn sitelibdir\=./.gem.20240118-4842-lmovbn
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /workspaces/theburgerblog.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240118-4842-lmovbn sitelibdir\=./.gem.20240118-4842-lmovbn install
+/usr/bin/install -m 0755 cparse.so ./.gem.20240118-4842-lmovbn/racc
+
+current directory: /workspaces/theburgerblog.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240118-4842-lmovbn sitelibdir\=./.gem.20240118-4842-lmovbn clean

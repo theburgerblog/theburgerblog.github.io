@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: TheBurgerBlog
-logo: "/assets/images/burger-rendering.jpg"
+logo: "/assets/images/burger.jpg"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Our journey to the best smashed burger in vienna.
 # twitter_username: username
 github_username: theburgerblog
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: default
 search: true
 
 lunr:
@@ -66,9 +66,8 @@ plugins:
 
 author:
   name   :
-    Florian Pfleiderer 
-  name   : Peter Oberwalder
-  # avatar : "/assets/images/burger-rendering.jpg"
+    Florian Pfleiderer           Peter Oberwalder
+  avatar : "/assets/images/burger-rendering.jpg"
   bio    : "It is our quest to find the best smashed burger in vienna."
   # links:
   #   - label: "Website"
@@ -91,7 +90,7 @@ footer:
 #       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/theburgerblog"
 #     - label: "Instagram"
 #       icon: "fab fa-fw fa-instagram"
 #       url: "https://instagram.com/"
@@ -116,9 +115,9 @@ defaults:
       layout: single
       author_profile: true
 
-# category_archive:
-#   type: liquid
-#   path: /categories/
-# tag_archive:
-#   type: liquid
-#   path: /tags/
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/

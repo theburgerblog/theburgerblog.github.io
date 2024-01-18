@@ -62,10 +62,12 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-# author:
-#   name   : "Florian Pfleiderer & Peter Oberwalder"
-#   avatar : "/assets/images/burger-rendering.jpg"
-#   bio    : "We like smashed burgers."
+author:
+  name   : |
+    Florian Pfleiderer 
+    Peter Oberwalder
+  # avatar : "/assets/images/burger-rendering.jpg"
+  bio    : "It is our quest to find the best smashed burger in vienna."
   # links:
   #   - label: "Website"
   #     icon: "fas fa-fw fa-link"
@@ -112,9 +114,9 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+# category_archive:
+#   type: liquid
+#   path: /categories/
+# tag_archive:
+#   type: liquid
+#   path: /tags/

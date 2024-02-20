@@ -14,6 +14,6 @@ Our journey to the best burger in vienna.
 - [ ] Burger de Ville
 - [ ] Hawidere
 - [ ] Flatschers
-- [ ] Smashbox
+- [x] Smashbox 1040
 - [ ] Speisekammer 1070
 - [x] Hotline5 

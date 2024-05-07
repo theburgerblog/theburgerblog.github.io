@@ -9,6 +9,8 @@ main:
     url: /about/
   - title: "Sitemap"
     url: /sitemap/
+  - title: "Main Page"
+    url: /splash-page/
 
 # sidebar navigation list sample
 sidebar-sample:

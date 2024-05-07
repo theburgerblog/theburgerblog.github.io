@@ -19,16 +19,13 @@ minimal_mistakes_skin    : "air", "aqua", "contrast", "dark", "dirt", "neon", "m
 title: TheBurgerBlog
 logo: "/assets/images/burger.jpg"
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Our journey to the best smashed burger in vienna.
+description: Our journey to the best smashed burger in vienna.
 # twitter_username: username
 github_username: theburgerblog
-baseurl: "/"
+baseurl: "/splash-page" # the subpath of your site, e.g. /blog
 search: true
-
 lunr:
   search_within_pages: true
-
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "utterances", "giscus", "custom"
   disqus:

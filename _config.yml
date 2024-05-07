@@ -13,6 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+theme                    : "minimal-mistakes-jekyll"
+minimal_mistakes_skin    : "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 title: TheBurgerBlog
 logo: "/assets/images/burger.jpg"
 email:
@@ -20,11 +23,36 @@ description: >- # this means to ignore newlines until "baseurl:"
   Our journey to the best smashed burger in vienna.
 # twitter_username: username
 github_username: theburgerblog
-minimal_mistakes_skin: default
+baseurl: "/"
 search: true
 
 lunr:
   search_within_pages: true
+
+comments:
+  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "utterances", "giscus", "custom"
+  disqus:
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
+  utterances:
+    theme                : # "github-light" (default), "github-dark"
+    issue_term           : # "pathname" (default)
+  giscus:
+    repo_id              : # Shown during giscus setup at https://giscus.app
+    category_name        : # Full text name of the category
+    category_id          : # Shown during giscus setup at https://giscus.app
+    discussion_term      : # "pathname" (default), "url", "title", "og:title"
+    reactions_enabled    : # '1' for enabled (default), '0' for disabled
+    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+  staticman:
+    branch               : # "master"
+    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
 
 atom_feed:
   hide: true
@@ -63,7 +91,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : Florian Pfleiderer & Peter Oberwalder
+  name   : Florian & Peter
   avatar : "/assets/images/burger-rendering.jpg"
   bio    : "It is our quest to find the best smashed burger in vienna."
   # links:

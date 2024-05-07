@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-theme                    : "minimal-mistakes-jekyll"
-minimal_mistakes_skin    : "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+theme: "minimal-mistakes-jekyll"
+minimal_mistakes_skin: "air" #, "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 title: TheBurgerBlog
 logo: "/assets/images/burger.jpg"
 email:

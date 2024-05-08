@@ -29,3 +29,5 @@ Bildformat für Header / Preview: 3:5
 
 See this link for infos about working with data
 https://jekyllrb.com/docs/datafiles/
+and this is the documentation about jekyll:
+https://jekyllrb.com/docs/

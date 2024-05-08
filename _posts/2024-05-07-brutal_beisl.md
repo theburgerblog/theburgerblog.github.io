@@ -14,7 +14,7 @@ excerpt: "Geschmacklich hervorrangend mitten im 6. Bezirk Wiens"
 ---
 
 ## Überblick
-Soll ma da auch was reinschreiben?
+*text fehlt*
 
 ## Infos
 - **Adresse:** <a href="https://www.google.com/maps?q=1060+Wien,+Gumpendorferstraße+33"><i class="fas fa-map-marker-alt"></i> 1060 Wien, Gumpendorferstraße 33</a>
@@ -28,18 +28,37 @@ Soll ma da auch was reinschreiben?
 - **Besonderheiten:** Vegane Optionen verfügbar, Craft-Biere im Angebot
 
 ## Rating
-| Bewertung   | Punktzahl |
-|-------------|-----------|
-| Preis       | 9/10      |
-| Konsistenz  | 8.5/10    |
-| Geschmack   | 8.5/10    |
-| Sättigung   | 7.5/10    |
-| Optik       | 7.5/10    |
+<table>
+  <tr>
+    <th>Bewertung</th>
+    <th>Punktzahl</th>
+  </tr>
+  <tr>
+    <td>Preis</td>
+    <td>9/10</td>
+  </tr>
+  <tr>
+    <td>Konsistenz</td>
+    <td>8.5/10</td>
+  </tr>
+  <tr>
+    <td>Geschmack</td>
+    <td>8.5/10</td>
+  </tr>
+  <tr>
+    <td>Sättigung</td>
+    <td>7.5/10</td>
+  </tr>
+  <tr>
+    <td>Optik</td>
+    <td>7.5/10</td>
+  </tr>
+</table>
 
 Preis für Classic Smashburger mit Pommes 12,90€
 
 ## Fazit
-Text fehlt
+*Text fehlt*
 
 ![brutal_beisl_3]({{ site.url }}{{ site.baseurl }}/assets/images/posts/brutal_beisl_3.png)
 

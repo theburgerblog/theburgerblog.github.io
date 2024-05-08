@@ -22,7 +22,7 @@ email:
 description: Our journey to the best smashed burger in vienna.
 # twitter_username: username
 github_username: theburgerblog
-baseurl: "/splash-page" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 search: true
 lunr:
   search_within_pages: true

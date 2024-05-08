@@ -6,6 +6,7 @@ author_profile: false
 
 {% for author in site.data.authors %}
 ![Image Description]({{ site.url }}{{ site.baseurl }}author.avatar)
+
 **{{ author.name }}**
 - {{ author.bio }}
 {% for link in author.links %}
@@ -13,3 +14,10 @@ author_profile: false
 {% endfor %}
 {% endfor %}
 
+{{ site.url }}
+
+{{ site.baseurl }}
+
+{{ site.data.authors }}
+
+{{ site.data.authors.florian }}

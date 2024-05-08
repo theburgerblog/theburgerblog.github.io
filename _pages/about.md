@@ -11,14 +11,14 @@ author_profile: true
 - {{ author.avatar }} </br>
 {% endfor %}
 
-Data:
-{{site.data}}
+Data
+{{ site.data }}
 
-Authors:
-{{site.data.authors}}
+Authors
+{{ site.data.authors }}
 
-Author1:
-{{ site.data.authors.Florian Pfleiderer}}
+Author1
+{{ site.data.authors.Florian Pfleiderer }}
 
 Navigation
-{{ site.data.navigation}}
+{{ site.data.navigation }}

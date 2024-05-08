@@ -8,5 +8,8 @@ author_profile: true
 ![Image Description]({{ site.url }}{{ site.baseurl }}author.avatar)
 - {{ author.name }}
 - {{ author.bio }}
-- {{ author.links }}
+{% for link in author.links %}
+    - [{{ link.label }}]({{ link.url }})
 {% endfor %}
+{% endfor %}
+

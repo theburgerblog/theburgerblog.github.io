@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-author_profile: true
+author_profile: false
 ---
 
 {% for author in site.data.authors %}

@@ -4,7 +4,7 @@ title: "About"
 author_profile: true
 ---
 
-{% assign authors = site.data.authors %}
+{% assign authors = site._data.authors %}
 
 ## Authors
 

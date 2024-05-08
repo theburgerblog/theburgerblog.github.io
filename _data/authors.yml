@@ -1,7 +1,6 @@
 # Authors
 
-Florian Pfleiderer:
-  name        : "Florian Pfleiderer"
+- name        : "Florian Pfleiderer"
   bio         : "Missing Info here."
   avatar      : "/assets/images/bio-photo-2.jpg"
   links:
@@ -15,8 +14,7 @@ Florian Pfleiderer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/extravagantman"
 
-Peter Oberwalder:
-  name        : "Peter Oberwalder"
+- name        : "Peter Oberwalder"
   bio         : "I ordered what?"
   avatar      : "/assets/images/bio-photo.jpg"
   links:

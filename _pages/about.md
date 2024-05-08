@@ -13,3 +13,12 @@ author_profile: true
 
 Data:
 {{site.data}}
+
+Authors:
+{{site.data.authors}}
+
+Author1:
+{{ site.data.authors.Florian Pfleiderer}}
+
+Navigation
+{{ site.data.navigation}}

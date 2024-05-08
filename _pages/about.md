@@ -2,13 +2,14 @@
 permalink: /about/
 title: "About"
 author_profile: true
-authors: site.data.authors
 ---
 What is this???
 
 title: {{page.title}}
 
-{% for author in page.authors %}
+{% for author in psite.data.authors %}
 - {{ author.name }} </br>
 {% endfor %}
 
+Data:
+{{site.data}}

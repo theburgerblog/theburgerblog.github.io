@@ -1,0 +1,37 @@
+---
+layout: splash
+permalink: /homepage
+hidden: true
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/burger.jpg
+  actions:
+    - label: "<i class='fas fa-burger'></i> Latest Posts"
+      url: "/posts/"
+excerpt: >
+  The Vienna Smashed Burger Blog.<br />
+feature_row:
+  - image_path: /assets/images/hotline5_01.jpg
+    alt: "hotline5"
+    title: "Hotline 5"
+    excerpt: "Our best rated Burger so far."
+    url: "/1050%20wien/hotline5/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/burger.jpg
+    alt: "see tags"
+    title: "See Tags"
+    excerpt: "All our visits sorted by tags."
+    url: "/tags/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/burger.jpg
+    alt: "see locations"
+    title: "See Locations"
+    excerpt: "All our vists by locations"
+    url: "/categories/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"      
+---
+
+{% include feature_row %}

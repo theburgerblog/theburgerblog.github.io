@@ -9,7 +9,7 @@ author_profile: true
 **{{ author.name }}**
 - {{ author.bio }}
 {% for link in author.links %}
-    - [{{ link.label }}]({{ link.url }})
+    - [{{ link.icon }}]({{ link.url }})
 {% endfor %}
 {% endfor %}
 

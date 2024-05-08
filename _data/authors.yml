@@ -10,9 +10,6 @@
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://florianpfleiderer.at"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/extravagantman"
 
 - name        : "Peter Oberwalder"
   bio         : "I ordered what?"
@@ -21,6 +18,3 @@
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:cornelius@thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/rhymeswithsackit"

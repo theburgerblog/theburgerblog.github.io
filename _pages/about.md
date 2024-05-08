@@ -18,7 +18,7 @@ Authors
 {{ site.data.authors }}
 
 Author1
-{{ site.data.authors.Florian Pfleiderer }}
+{{ site.data.authors[0] }}
 
 Navigation
 {{ site.data.navigation }}

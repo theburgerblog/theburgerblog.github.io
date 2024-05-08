@@ -2,10 +2,11 @@
 permalink: /about/
 title: "About"
 author_profile: true
+authors: site.data.authors
 ---
 
-<ul>
-{% for member in site.data.authors %}
-      Name: {{ member.name }}
+{% for author in page.authors %}
+- {{ author.name }} </br>
 {% endfor %}
-</ul>
+
+title: {{page.title}}

@@ -2,13 +2,14 @@
 title: "Brutal Beisl"
 date: 2024-05-07
 categories:
-  - 1060 Wien
+  - "1060 "
+  - Wien
 tags:
   - smashed
   - takeaway
 header:
-  image: /assets/images/posts/brutal_beisl_header.png
-  teaser: /assets/images/posts/brutal_beisl_header.png
+  image: /assets/images/posts/brutal_beisl_header.jpg
+  teaser: /assets/images/posts/brutal_beisl_header.jpg
 excerpt: "Geschmacklich hervorrangend mitten im 6. Bezirk Wiens"
 ---
 
@@ -16,10 +17,14 @@ excerpt: "Geschmacklich hervorrangend mitten im 6. Bezirk Wiens"
 Soll ma da auch was reinschreiben?
 
 ## Infos
-- Adresse: 1060 Wien, Gumpendorferstraße 33
-- Social Media: [Instagram](https://www.instagram.com/burgerbeislbrutal/)
+- Adresse: [1060 Wien, Gumpendorferstraße 33](https://www.google.com/maps?q=1060+Wien,+Gumpendorferstraße+33)
+- Social Media: [Instagram](https://www.instagram.com/burgerbeislbrutal/) ![Instagram](https://fontawesome.com/icons/instagram?style=brands)
 - Öffnungszeiten: Mo-Fr: 11:30 - 21:00
-- Reservierung: Nein
+- Reservierung: Nicht möglich
+- Zahlungsmethoden: Bar, Kreditkarte
+- Parkmöglichkeiten: Straßenparkplätze in der Nähe
+- Barrierefreiheit: Nicht barrierefrei
+- Besonderheiten: Vegane Optionen verfügbar, Craft-Biere im Angebot
 
 ## Rating
 Preis für Classic Smashburger mit Pommes 12,90€
@@ -30,7 +35,7 @@ Preis für Classic Smashburger mit Pommes 12,90€
 - Optik 7,5/10
 
 ## Fazit
-Das Brutal Beisl ist definitiv einen Besuch wert. Mit seinem hervorragenden Geschmack und der zentralen Lage im 6. Bezirk Wiens ist es ein Muss für Burgerliebhaber. Der Classic Smashburger mit Pommes ist besonders empfehlenswert und bietet ein ausgezeichnetes Preis-Leistungs-Verhältnis. Die Öffnungszeiten sind von Montag bis Freitag von 11:30 bis 21:00 Uhr, und eine Reservierung ist nicht erforderlich, da der Laden nur Takeaway anbietet. Besuchen Sie das Brutal Beisl und lassen Sie sich von den köstlichen Burgern verwöhnen!
+Text fehlt
 
 ![brutal_beisl_3]({{ site.url }}{{ site.baseurl }}/assets/images/posts/brutal_beisl_3.png)
 

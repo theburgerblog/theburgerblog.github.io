@@ -1,6 +1,6 @@
 # Authors
 florian:
-  name        : "Florian Pfleiderer"
+  name        : "Florian"
   bio         : "Missing Info here."
   avatar      : "/assets/images/bio-photo-2.jpg"
   links:
@@ -11,7 +11,7 @@ florian:
       icon: "fas fa-fw fa-link"
       url: "https://florianpfleiderer.at"
 peter:
-  name        : "Peter Oberwalder"
+  name        : "Peter"
   bio         : "I ordered what?"
   avatar      : "/assets/images/bio-photo.jpg"
   links:

@@ -6,17 +6,9 @@ author_profile: false
 
 {% for author in site.data.authors %}
 
-**{{ author }}**
-- {{ author.bio }}
-{% for link in author.links %}
+**{{ author[0] }}**
+- {{ author[1].bio }}
+{% for link in author[1].links %}
     - [{{ link.icon }}]({{ link.url }})
 {% endfor %}
 {% endfor %}
-
-{{ site.url }}
-
-{{ site.baseurl }}
-
-{{ site.data.authors }}
-
-{{ site.data.authors.florian }}

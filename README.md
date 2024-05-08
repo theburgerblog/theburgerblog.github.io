@@ -26,3 +26,6 @@ Blablabla.
 ## Formate:
 Bildformat für Header / Preview: 3:5
 -> alle bilder einmal zusätzlich mit dem postfix "_header" abspeichern.
+
+See this link for infos about working with data
+https://jekyllrb.com/docs/datafiles/

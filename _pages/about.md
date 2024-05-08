@@ -6,7 +6,7 @@ author_profile: true
 
 {% for author in site.data.authors %}
 ![Image Description]({{ site.url }}{{ site.baseurl }}author.avatar)
-- {{ author.name }}
+**{{ author.name }}**
 - {{ author.bio }}
 {% for link in author.links %}
     - [{{ link.label }}]({{ link.url }})

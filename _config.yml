@@ -133,6 +133,7 @@ defaults:
       toc: true
       toc_label: "Table of Contents"
       toc_icon: "burger"
+      comments: false
 
   # _pages
   - scope:

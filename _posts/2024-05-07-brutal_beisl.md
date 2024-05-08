@@ -17,22 +17,26 @@ excerpt: "Geschmacklich hervorrangend mitten im 6. Bezirk Wiens"
 Soll ma da auch was reinschreiben?
 
 ## Infos
-- Adresse: [1060 Wien, Gumpendorferstraße 33](https://www.google.com/maps?q=1060+Wien,+Gumpendorferstraße+33)
-- Social Media: [Instagram](https://www.instagram.com/burgerbeislbrutal/) ![Instagram](https://fontawesome.com/icons/instagram?style=brands)
-- Öffnungszeiten: Mo-Fr: 11:30 - 21:00
-- Reservierung: Nicht möglich
-- Zahlungsmethoden: Bar, Kreditkarte
-- Parkmöglichkeiten: Straßenparkplätze in der Nähe
-- Barrierefreiheit: Nicht barrierefrei
-- Besonderheiten: Vegane Optionen verfügbar, Craft-Biere im Angebot
+- **Adresse:** <a href="https://www.google.com/maps?q=1060+Wien,+Gumpendorferstraße+33"><i class="fas fa-map-marker-alt"></i> 1060 Wien, Gumpendorferstraße 33</a>
+- **Social Media:** <a href="https://www.instagram.com/burgerbeislbrutal/"><i class="fab fa-instagram"></i> Instagram</a>
+- **Öffnungszeiten:** Mo-Fr: 11:30 - 21:00
+- **Reservierung:** Nicht möglich
+- **Zahlungsmethoden:** Bar, Kreditkarte
+- **Parkmöglichkeiten:** Straßenparkplätze in der Nähe
+- **Sitzgelegenheiten:** Keine
+- **Barrierefreiheit:** Nicht barrierefrei
+- **Besonderheiten:** Vegane Optionen verfügbar, Craft-Biere im Angebot
 
 ## Rating
+| Bewertung   | Punktzahl |
+|-------------|-----------|
+| Preis       | 9/10      |
+| Konsistenz  | 8.5/10    |
+| Geschmack   | 8.5/10    |
+| Sättigung   | 7.5/10    |
+| Optik       | 7.5/10    |
+
 Preis für Classic Smashburger mit Pommes 12,90€
-- Preis 9/10 
-- Konsistenz 8,5/10
-- Geschmack 8,5/10
-- Sättigung 7,5/10 
-- Optik 7,5/10
 
 ## Fazit
 Text fehlt

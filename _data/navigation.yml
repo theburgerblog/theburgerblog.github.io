@@ -7,20 +7,3 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
-  - title: "Sitemap"
-    url: /sitemap/
-  - title: "Main Page"
-    url: /splash-page/
-
-# sidebar navigation list sample
-sidebar-sample:
-  - title: "Parent Page A"
-    children:
-      - title: "Child Page A1"
-        url: /child-page-a1/
-      - title: "Child Page A2"
-        url: /child-page-a2/
-      - title: "Child Page A3"
-        url: /child-page-a3/
-      - title: "Child Page A4"
-        url: /child-page-a4/

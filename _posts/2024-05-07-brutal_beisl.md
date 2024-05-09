@@ -43,7 +43,7 @@ sidebar:
             </tr>
           </table>"
   - title: "Social Media"
-    text: "[fab fa-fw fa-instagram](https://www.instagram.com/burgerbeislbrutal/)"
+    text: "<a href='https://www.instagram.com/burgerbeislbrutal/'><i class='fab fa-instagram'></i></a>"
 gallery:
   - url: assets/images/posts/brutal_beisl_1.jpg
     image_path: assets/images/posts/brutal_beisl_1.jpg

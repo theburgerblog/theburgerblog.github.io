@@ -43,11 +43,12 @@ sidebar:
             </tr>
           </table>"
   - title: "Links"
-    text:
-    "<ul>
-      <li><a href='https://www.instagram.com/burgerbeislbrutal/'><i class='fab fa-instagram'></i> Instagram</a></li>
-      <li><a href='https://www.google.com/maps?q=1060+Wien,+Gumpendorferstraße+33'><i class='fas fa-map-marker-alt'></i> Google Maps</a></li>
-    </ul>"
+    text: "<div class='sidebar-section'>
+            <ul>
+              <li><a href='mailto:florian+burgerblog@pfleiderer.at'><i class='fas fa-envelope'></i> Email</a></li>
+              <li><a href='https://florianpfleiderer.at'><i class='fas fa-link'></i> Website</a></li>
+            </ul>
+          </div>"
 gallery:
   - url: assets/images/posts/brutal_beisl_1.jpg
     image_path: assets/images/posts/brutal_beisl_1.jpg

@@ -17,6 +17,7 @@
   // }
 
   @include breakpoint($large) {
+    display: inline-table;
     float: left;
     width: calc(#{$right-sidebar-width-narrow} - 1em);
     opacity: 0.75;

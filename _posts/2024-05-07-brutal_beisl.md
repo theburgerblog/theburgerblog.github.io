@@ -2,15 +2,16 @@
 title: "Brutal Beisl"
 date: 2024-05-07
 categories:
-  - "1060 "
+  - "1060"
   - Wien
 tags:
-  - smashed
-  - takeaway
+  - Smashed
+  - Takeaway
+  - Kartenzahlung
 header:
   image: /assets/images/posts/brutal_beisl_header.jpg
   teaser: /assets/images/posts/brutal_beisl_header.jpg
-excerpt: "Geschmacklich hervorrangend mitten im 6. Bezirk Wiens"
+excerpt: "Geschmacklich hervorrangender Burger als Takeaway."
 ---
 
 ### Überblick

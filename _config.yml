@@ -124,9 +124,9 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: splash
       show_date: true
-      author_profile: true
+      author_profile: false
       read_time: true
       share: true
       related: true

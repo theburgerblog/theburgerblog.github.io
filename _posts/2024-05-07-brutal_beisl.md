@@ -62,14 +62,15 @@ gallery:
 ---
 
 ### Überblick
-*text fehlt*
+*Indulge in the ultimate burger experience at [Your Restaurant Name]! Our signature burger, the [Burger Name], is a masterpiece crafted with only the finest ingredients. Savor a perfectly cooked, juicy beef patty topped with melted cheddar cheese, fresh lettuce, ripe tomatoes, and our special house-made sauce. All these delicious elements are nestled between a freshly baked, buttery brioche bun. Whether you're a burger aficionado or just looking for a satisfying meal, the [Burger Name] promises to deliver an unforgettable taste sensation with every bite. Join us and treat yourself to what many consider the best burger in town!*
 
 ### Infos
 Im Restaurant sind Reservierungen leider nicht möglich. Als Zahlungsmethoden werden sowohl Barzahlung als auch Kreditkarten akzeptiert. Gäste können auf Straßenparkplätzen in der Nähe parken. Allerdings gibt es keine Sitzgelegenheiten im Lokal. Dennoch ist das Restaurant barrierefrei und somit für alle Gäste zugänglich.
 
 ### Zum Burger
-*text fehlt*
+*Indulge in the ultimate burger experience at [Your Restaurant Name]! Our signature burger, the [Burger Name], is a masterpiece crafted with only the finest ingredients. Savor a perfectly cooked, juicy beef patty topped with melted cheddar cheese, fresh lettuce, ripe tomatoes, and our special house-made sauce. All these delicious elements are nestled between a freshly baked, buttery brioche bun. Whether you're a burger aficionado or just looking for a satisfying meal, the [Burger Name] promises to deliver an unforgettable taste sensation with every bite. Join us and treat yourself to what many consider the best burger in town!*
 
+#### Preise
 Preis für Classic Smashburger mit Pommes 12,90€
 
 ### Impressionen

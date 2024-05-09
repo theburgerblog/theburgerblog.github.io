@@ -25,6 +25,7 @@ th {
   background-color: $border-color;
   padding: 0.5em;
   font-weight: bold;
+  border: 2px solid mix(#000, $border-color, 25%);
 }
 
 td {

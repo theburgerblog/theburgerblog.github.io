@@ -12,8 +12,8 @@ excerpt: >
   The Vienna Smashed Burger Blog.<br />
 feature_row:
   - image_path: /assets/images/posts/brutal_beisl_header.jpg
-    title: "Burger Beisl Brutal"
-    excerpt: "Unser Spitzenreiter bis jetzt."
+    title: "Die Nummer Eins"
+    excerpt: "Burger Beisl Brutal."
     url: "/1060/wien/brutal_beisl/"
     btn_class: "btn--primary"
     btn_label: "Learn more"

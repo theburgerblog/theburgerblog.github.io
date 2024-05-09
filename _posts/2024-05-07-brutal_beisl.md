@@ -19,13 +19,13 @@ sidebar:
     text: "<a href="https://www.instagram.com/burgerbeislbrutal/"><i class="fab fa-instagram"></i> Instagram</a>"
   - title: "Öffnungszeiten"
     text: "Mo-Fr: 11:30 - 21:00"
-gallery:
-  - image_path: assets/images/posts/brutal_beisl_1.jpg
-    alt: "placeholder image 1"
-  - image_path: assets/images/posts/brutal_beisl_2.jpg
-    alt: "placeholder image 2"
-  - image_path: assets/images/posts/brutal_beisl_3.jpg
-    alt: "placeholder image 3"
+# gallery:
+#   - image_path: assets/images/posts/brutal_beisl_1.jpg
+#     alt: "placeholder image 1"
+#   - image_path: assets/images/posts/brutal_beisl_2.jpg
+#     alt: "placeholder image 2"
+#   - image_path: assets/images/posts/brutal_beisl_3.jpg
+#     alt: "placeholder image 3"
 ---
 
 ### Überblick
@@ -71,7 +71,7 @@ Preis für Classic Smashburger mit Pommes 12,90€
 ### Fazit
 *Text fehlt*
 
-{% include gallery caption="Impressionen unseres Besuchs." %}
+<!-- {% include gallery caption="Impressionen unseres Besuchs." %} -->
 
 ### Overall Score: 8,1
 

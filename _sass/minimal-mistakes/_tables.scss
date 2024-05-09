@@ -115,3 +115,8 @@ th {
     padding-left: 3.25rem
   }
 }
+
+.overall-rating {
+  background-color: darken($background-color, 10%);
+  color: $text-color;
+}

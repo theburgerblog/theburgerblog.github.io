@@ -37,7 +37,7 @@ sidebar:
             <a>Optik</a>
             <a>7.5/10</a>
           </li>
-          <li>
+          <li class="overall-rating">
             <a>Overall</a>
             <a>8.1/10</a>
           </li>

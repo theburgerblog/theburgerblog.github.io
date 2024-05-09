@@ -11,15 +11,13 @@ header:
 excerpt: >
   The Vienna Smashed Burger Blog.<br />
 feature_row:
-  - image_path: /assets/images/posts/hotline5_header.jpg
-    alt: "hotline5"
-    title: "Hotline 5"
-    excerpt: "Our best rated Burger so far."
-    url: "/1050/wien/hotline5/"
+  - image_path: /assets/images/posts/brutal_beisl_header.jpg
+    title: "Burger Beisl Brutal"
+    excerpt: "Unser Spitzenreiter bis jetzt."
+    url: "/1060/wien/brutal_beisl/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/posts/brutal_beisl_header.jpg
-    alt: "our latest visit"
     title: "Latest Visit"
     excerpt: "View our latest visit."
     url: "1060/wien/brutal_beisl/"

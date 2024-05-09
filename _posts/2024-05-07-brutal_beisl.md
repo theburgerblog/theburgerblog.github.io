@@ -15,17 +15,17 @@ excerpt: "Geschmacklich hervorrangender Burger als Takeaway."
 sidebar:
   # - title: "Adresse"
   #   text: "<a href="https://www.google.com/maps?q=1060+Wien,+Gumpendorferstraße+33"><i class="fas fa-map-marker-alt"></i> 1060 Wien, Gumpendorferstraße 33</a>"
-  - title: "Instagram"
-    text: <a href="https://www.instagram.com/burgerbeislbrutal/"><i class="fab fa-instagram"></i> Instagram</a>
+  # - title: "Instagram"
+  #   text: "<a href="https://www.instagram.com/burgerbeislbrutal/"><i class="fab fa-instagram"></i> Instagram</a>"
   - title: "Öffnungszeiten"
     text: "Mo-Fr: 11:30 - 21:00"
-# gallery:
-#   - image_path: assets/images/posts/brutal_beisl_1.jpg
-#     alt: "placeholder image 1"
-#   - image_path: assets/images/posts/brutal_beisl_2.jpg
-#     alt: "placeholder image 2"
-#   - image_path: assets/images/posts/brutal_beisl_3.jpg
-#     alt: "placeholder image 3"
+gallery:
+  - image_path: assets/images/posts/brutal_beisl_1.jpg
+    alt: "placeholder image 1"
+  - image_path: assets/images/posts/brutal_beisl_2.jpg
+    alt: "placeholder image 2"
+  - image_path: assets/images/posts/brutal_beisl_3.jpg
+    alt: "placeholder image 3"
 ---
 
 ### Überblick

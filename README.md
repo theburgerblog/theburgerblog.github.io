@@ -1,27 +1,23 @@
 # Burger Blog 
 Layout für jeden Beitrag: 
 
-## Überblick
-kurze beschreibung in ein bis zwei sätzen
+### Überblick
+*text fehlt*
 
-## Infos:
-- Adresse: 
-- Social Media: 
-- Öffnungszeiten: 
-- Reservierung:
+### Infos
+Im Restaurant sind Reservierungen leider nicht möglich. Als Zahlungsmethoden werden sowohl Barzahlung als auch Kreditkarten akzeptiert. Gäste können auf Straßenparkplätzen in der Nähe parken. Allerdings gibt es keine Sitzgelegenheiten im Lokal. Dennoch ist das Restaurant barrierefrei und somit für alle Gäste zugänglich.
 
-## Rating
-Preis für Classic Smashburger mit Pommes:
-- Preis 
-- Konsistenz 
-- Geschmack 
-- Sättigung
-- Optik 
+### Zum Burger
+*text fehlt*
+Preis für Classic Smashburger mit Pommes 12,90€
 
-## Fazit
-Blablabla.
+### Impressionen
 
-## Overall Score: X.X
+{% include gallery caption="Impressionen unseres Besuchs." %}
+
+### Fazit
+
+-> die kurzinfos und rating kommen in die sidebar (siehe Brutal Beisl Entry)
 
 ## Formate:
 Bildformat für Header / Preview: 3:5

@@ -42,8 +42,8 @@ sidebar:
               <td><strong>8.1/10</strong></td>
             </tr>
           </table>"
-  - title: "Social Media"
-    text: "<a href='https://www.instagram.com/burgerbeislbrutal/'><i class='fab fa-instagram'></i></a>"
+  - title: "Links"
+    text: "<a href='https://www.instagram.com/burgerbeislbrutal/'><i class='fab fa-instagram'></i></a> <a href='https://www.google.com/maps?q=1060+Wien,+Gumpendorferstraße+33'><i class='fas fa-map-marker-alt'></i></a>"
 gallery:
   - url: assets/images/posts/brutal_beisl_1.jpg
     image_path: assets/images/posts/brutal_beisl_1.jpg
@@ -60,46 +60,16 @@ gallery:
 *text fehlt*
 
 ### Infos
-- **Adresse:** <a href="https://www.google.com/maps?q=1060+Wien,+Gumpendorferstraße+33"><i class="fas fa-map-marker-alt"></i> 1060 Wien, Gumpendorferstraße 33</a>
-- **Social Media:** <a href="https://www.instagram.com/burgerbeislbrutal/"><i class="fab fa-instagram"></i> Instagram</a>
-- **Öffnungszeiten:** Mo-Fr: 11:30 - 21:00
-- **Reservierung:** Nicht möglich
-- **Zahlungsmethoden:** Bar, Kreditkarte
-- **Parkmöglichkeiten:** Straßenparkplätze in der Nähe
-- **Sitzgelegenheiten:** Keine
-- **Barrierefreiheit:** Nicht barrierefrei
-- **Besonderheiten:** Vegane Optionen verfügbar, Craft-Biere im Angebot
+Im Restaurant sind Reservierungen leider nicht möglich. Als Zahlungsmethoden werden sowohl Barzahlung als auch Kreditkarten akzeptiert. Gäste können auf Straßenparkplätzen in der Nähe parken. Allerdings gibt es keine Sitzgelegenheiten im Lokal. Dennoch ist das Restaurant barrierefrei und somit für alle Gäste zugänglich.
 
-<!-- ### Rating
-<table>
-  <tr>
-    <td>Preis</td>
-    <td>9/10</td>
-  </tr>
-  <tr>
-    <td>Konsistenz</td>
-    <td>8.5/10</td>
-  </tr>
-  <tr>
-    <td>Geschmack</td>
-    <td>8.5/10</td>
-  </tr>
-  <tr>
-    <td>Sättigung</td>
-    <td>7.5/10</td>
-  </tr>
-  <tr>
-    <td>Optik</td>
-    <td>7.5/10</td>
-  </tr>
-</table> -->
-
+### Zum Burger
+*text fehlt*
 Preis für Classic Smashburger mit Pommes 12,90€
 
-### Fazit
-*Text fehlt*
+### Impressionen
 
 {% include gallery caption="Impressionen unseres Besuchs." %}
 
-### Overall Score: 8,1
+### Fazit
+
 

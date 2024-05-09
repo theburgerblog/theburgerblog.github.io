@@ -6,9 +6,19 @@ author_profile: false
 
 {% for author in site.data.authors %}
 
-**{{ author[1].name }}**
-- {{ author[1].bio }}
-{% for link in author[1].links %}
-    - [{{ link.label }}]({{ link.url }})
-{% endfor %}
+<div class="card" style="width: 18rem;">
+    <img class="card-img-top" src="{{ author[1].avatar }}" alt="Card image cap">
+    <div class="card-body">
+        <h5 class="card-title">{{ author[1].name }}</h5>
+        <p class="card-text">{{ author[1].bio }}</p>
+        <ul class="list-group list-group-flush">
+        {% for link in author[1].links %}
+                <li class="list-group-item">
+                        <a href="{{ link.url }}"><i class="{{ link.icon }}"></i> {{ link.label }}</a>
+                </li>
+        {% endfor %}
+        </ul>
+    </div>
+</div>
+
 {% endfor %}

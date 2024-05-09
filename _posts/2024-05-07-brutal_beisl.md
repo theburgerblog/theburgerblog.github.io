@@ -62,7 +62,6 @@ gallery:
 
 ### Überblick
 *text fehlt*
-<!-- TODO:  -->
 
 ### Allgemeine Infos
 Im Restaurant sind Reservierungen leider nicht möglich. Als Zahlungsmethoden werden sowohl Barzahlung als auch Kreditkarten akzeptiert. Gäste können auf Straßenparkplätzen in der Nähe parken. Allerdings gibt es keine Sitzgelegenheiten im Lokal. Dennoch ist das Restaurant barrierefrei und somit für alle Gäste zugänglich.
@@ -72,11 +71,9 @@ Nun zum wichtigsten Part dieses Blogs:
 
 #### Der Burger
 *text fehlt*
-<!-- TODO: -->
 
 #### Pommes und Beilagen
 *text fehlt*
-<!-- TODO: -->
 
 #### Ergänzungen zur Speisekarte
 Preis für Classic Smashburger mit Pommes 12,90€
@@ -86,5 +83,3 @@ Preis für Classic Smashburger mit Pommes 12,90€
 
 ### Fazit
 *text fehlt*
-<!-- TODO: -->
-

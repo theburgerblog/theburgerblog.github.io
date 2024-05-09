@@ -14,37 +14,36 @@ header:
 excerpt: "Geschmacklich hervorrangender Burger als Takeaway."
 sidebar:
   - title: "Rating"
-    text: "<table>
-            <tr>
-              <td>Preis</td>
-              <td>9.0/10</td>
-            </tr>
-            <tr>
-              <td>Konsistenz</td>
-              <td>8.5/10</td>
-            </tr>
-            <tr>
-              <td>Geschmack</td>
-              <td>8.5/10</td>
-            </tr>
-            <tr>
-              <td>Sättigung</td>
-              <td>7.5/10</td>
-            </tr>
-            <tr>
-              <td>Optik</td>
-              <td>7.5/10</td>
-            </tr>
-            <tr>
-              <td><strong>Overall</strong></td>
-              <td><strong>8.1/10</strong></td>
-            </tr>
-          </table>"
-  - title: "Links"
-    text: <div class='sidebar-section'>
-            <div><a href='https://www.instagram.com/burgerbeislbrutal/'><i class='fab fa-instagram'></i> Instagram</a>
-            <div><a href='https://www.google.com/maps?q=1060+Wien,+Gumpendorferstraße+33'><i class='fas fa-map-marker-alt'></i> Google Maps</a>
-          </div>
+    text: |
+            <nav class="ratings-table">
+        <header><h4 class="nav__title"><i class="fas fa-burger"></i> Ratings</h4></header>
+        <ul class="table__menu">
+          <li>
+            <a>Preis</a>
+            <a>9.0/10</a>
+          </li>
+          <li>
+            <a>Konsistenz</a>
+            <a>8.5/10</a>
+          </li>
+          <li>
+            <a>Geschmack</a>
+            <a>8.5/10</a>
+          </li>
+          <li>
+            <a>Sättigung</a>
+            <a>7.5/10</a>
+          </li>
+          <li>
+            <a>Optik</a>
+            <a>7.5/10</a>
+          </li>
+          <li>
+            <a>Overall</a>
+            <a>8.1/10</a>
+          </li>
+        </ul>
+      </nav>
 gallery:
   - url: assets/images/posts/brutal_beisl_1.jpg
     image_path: assets/images/posts/brutal_beisl_1.jpg
@@ -55,24 +54,38 @@ gallery:
   - url: assets/images/posts/brutal_beisl_3.jpg
     image_path: assets/images/posts/brutal_beisl_3.jpg
     alt: "placeholder image 3"
+  - url: assets/images/posts/brutal_beisl_4.jpg
+    image_path: assets/images/posts/brutal_beisl_4.jpg
+  - url: assets/images/posts/brutal_beisl_5.jpg
+    image_path: assets/images/posts/brutal_beisl_5.jpg
 ---
+<a href='https://www.instagram.com/burgerbeislbrutal/'><i class='fab fa-instagram'></i> Instagram</a> <a href='https://www.google.com/maps?q=1060+Wien,+Gumpendorferstraße+33'><i class='fas fa-map-marker-alt'></i> Google Maps</a>
 
 ### Überblick
-*Indulge in the ultimate burger experience at [Your Restaurant Name]! Our signature burger, the [Burger Name], is a masterpiece crafted with only the finest ingredients. Savor a perfectly cooked, juicy beef patty topped with melted cheddar cheese, fresh lettuce, ripe tomatoes, and our special house-made sauce. All these delicious elements are nestled between a freshly baked, buttery brioche bun. Whether you're a burger aficionado or just looking for a satisfying meal, the [Burger Name] promises to deliver an unforgettable taste sensation with every bite. Join us and treat yourself to what many consider the best burger in town!*
+*text fehlt*
+<!-- TODO:  -->
 
-### Infos
+### Allgemeine Infos
 Im Restaurant sind Reservierungen leider nicht möglich. Als Zahlungsmethoden werden sowohl Barzahlung als auch Kreditkarten akzeptiert. Gäste können auf Straßenparkplätzen in der Nähe parken. Allerdings gibt es keine Sitzgelegenheiten im Lokal. Dennoch ist das Restaurant barrierefrei und somit für alle Gäste zugänglich.
 
-### Zum Burger
-*Indulge in the ultimate burger experience at [Your Restaurant Name]! Our signature burger, the [Burger Name], is a masterpiece crafted with only the finest ingredients. Savor a perfectly cooked, juicy beef patty topped with melted cheddar cheese, fresh lettuce, ripe tomatoes, and our special house-made sauce. All these delicious elements are nestled between a freshly baked, buttery brioche bun. Whether you're a burger aficionado or just looking for a satisfying meal, the [Burger Name] promises to deliver an unforgettable taste sensation with every bite. Join us and treat yourself to what many consider the best burger in town!*
+### Kulinarik
+Nun zum wichtigsten Part dieses Blogs:
 
-#### Preise
+#### Der Burger
+*text fehlt*
+<!-- TODO: -->
+
+#### Pommes und Beilagen
+*text fehlt*
+<!-- TODO: -->
+
+#### Ergänzungen zur Speisekarte
 Preis für Classic Smashburger mit Pommes 12,90€
 
 ### Impressionen
-
 {% include gallery caption="Impressionen unseres Besuchs." %}
 
 ### Fazit
-
+*text fehlt*
+<!-- TODO: -->
 

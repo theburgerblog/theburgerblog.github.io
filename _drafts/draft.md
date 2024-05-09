@@ -4,7 +4,7 @@ date: JJJJ-MM-DD
 categories:
   - Items
 tags:
-  - Tags
+  - Smashed / Normal / Bio / Barzahlung / Kartenzahlung / Reservierung / Takeaway
 header:
   image: /assets/images/posts/...
   teaser: /assets/images/posts/...
@@ -56,18 +56,23 @@ gallery:
 ### Überblick
 *Indulge in the ultimate burger experience at [Your Restaurant Name]! Our signature burger, the [Burger Name], is a masterpiece crafted with only the finest ingredients. Savor a perfectly cooked, juicy beef patty topped with melted cheddar cheese, fresh lettuce, ripe tomatoes, and our special house-made sauce. All these delicious elements are nestled between a freshly baked, buttery brioche bun. Whether you're a burger aficionado or just looking for a satisfying meal, the [Burger Name] promises to deliver an unforgettable taste sensation with every bite. Join us and treat yourself to what many consider the best burger in town!*
 
-### Infos
+### Allgemeine Infos
 *Indulge in the ultimate burger experience at [Your Restaurant Name]! Our signature burger, the [Burger Name], is a masterpiece crafted with only the finest ingredients. Savor a perfectly cooked, juicy beef patty topped with melted cheddar cheese, fresh lettuce, ripe tomatoes, and our special house-made sauce. All these delicious elements are nestled between a freshly baked, buttery brioche bun. Whether you're a burger aficionado or just looking for a satisfying meal, the [Burger Name] promises to deliver an unforgettable taste sensation with every bite. Join us and treat yourself to what many consider the best burger in town!*
 
-### Zum Burger
-*text fehlt*
+### Kulinarik
+Nun zum wichtigsten Part dieses Blogeintrags:
 
-### Preise
+#### Der Burger
+*text*
+
+#### Pommes und Beilagen
+*text*
+
+### Ergänzungen zur Speisekarte
 Preis für Cheeseburger mit Pommes: 18,30€
 Preis für Double Smashburger mit Pomme: 21,30 €
 
 ### Impressionen
-
 {% include gallery caption="Impressionen unseres Besuchs." %}
 
 ### Fazit:

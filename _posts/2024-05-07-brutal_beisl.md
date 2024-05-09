@@ -15,16 +15,29 @@ excerpt: "Geschmacklich hervorrangender Burger als Takeaway."
 sidebar:
   - title: "Öffnungszeiten"
     text: "Mo-Fr: 11:30 - 21:00"
-  - title: "Preis"
-    text: "9/10"
-  - title: "Konsistenz"
-    text: "8,5/10"
-  - title: "Geschmack"
-    text: "8,5/10"
-  - title: "Sättigung"
-    text: "7,5/10"
-  - title: "Optik"
-    text: "7,5/10"
+  - title: "Rating"
+    text: "<table>
+            <tr>
+              <td>Preis</td>
+              <td>9/10</td>
+            </tr>
+            <tr>
+              <td>Konsistenz</td>
+              <td>8.5/10</td>
+            </tr>
+            <tr>
+              <td>Geschmack</td>
+              <td>8.5/10</td>
+            </tr>
+            <tr>
+              <td>Sättigung</td>
+              <td>7.5/10</td>
+            </tr>
+            <tr>
+              <td>Optik</td>
+              <td>7.5/10</td>
+            </tr>
+          </table>"
 gallery:
   - url: assets/images/posts/brutal_beisl_1.jpg
     image_path: assets/images/posts/brutal_beisl_1.jpg

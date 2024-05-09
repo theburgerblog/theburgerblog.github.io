@@ -64,6 +64,7 @@ Im Restaurant sind Reservierungen leider nicht möglich. Als Zahlungsmethoden we
 
 ### Zum Burger
 *text fehlt*
+
 Preis für Classic Smashburger mit Pommes 12,90€
 
 ### Impressionen

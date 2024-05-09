@@ -37,7 +37,7 @@ sidebar:
               <td>Optik</td>
               <td>7.5/10</td>
             </tr>
-            </tr>
+            <tr>
               <td><strong>Overall</strong></td>
               <td><strong>8.1/10</strong></td>
             </tr>

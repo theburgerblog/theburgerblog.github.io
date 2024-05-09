@@ -7,7 +7,7 @@ author_profile: false
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 {% for author in site.data.authors %}
 
-<div style="margin: 1rem; width: 18rem; border: 1px solid #000; padding: 1rem;">
+<div style="margin: 1rem; width: 15rem; border: 1px solid #000; padding: 1rem;">
   <img style="width: 100%;" src="{{ author[1].avatar }}" alt="Card image cap">
   <div>
     <h5>{{ author[1].name }}</h5>

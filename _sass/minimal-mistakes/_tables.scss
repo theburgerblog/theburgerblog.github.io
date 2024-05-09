@@ -69,6 +69,8 @@ th {
   width: 100%;
   list-style: none;
   font-size: $type-size-6;
+  display: flex;
+  flex-direction: column;
 
   @include breakpoint($large) {
     font-size: $type-size-7;

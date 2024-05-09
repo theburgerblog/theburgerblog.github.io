@@ -22,9 +22,9 @@ thead {
 }
 
 th {
+  background-color: $border-color;
   padding: 0.5em;
   font-weight: bold;
-  text-align: left;
 }
 
 td {

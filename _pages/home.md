@@ -25,7 +25,7 @@ feature_row:
     url: "1060/wien/brutal_beisl/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/burger.jpg
+  - image_path: /assets/images/burger_header.jpg
     alt: "see locations"
     title: "See Locations"
     excerpt: "All our visits by locations"

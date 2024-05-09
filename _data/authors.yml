@@ -2,7 +2,7 @@
 florian:
   name        : "Florian"
   bio         : "Missing Info here."
-  avatar      : "/assets/images/bio-photo-2.jpg"
+  avatar      : "/assets/images/florian.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

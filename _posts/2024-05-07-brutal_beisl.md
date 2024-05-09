@@ -13,9 +13,8 @@ header:
   teaser: /assets/images/posts/brutal_beisl_header.jpg
 excerpt: "Geschmacklich hervorrangender Burger als Takeaway."
 sidebar:
-  - title: "Rating"
-    text: |
-            <nav class="ratings-table">
+  - text: |
+      <nav class="ratings-table">
         <header><h4 class="nav__title"><i class="fas fa-burger"></i> Ratings</h4></header>
         <ul class="table__menu">
           <li>
@@ -54,10 +53,10 @@ gallery:
   - url: assets/images/posts/brutal_beisl_3.jpg
     image_path: assets/images/posts/brutal_beisl_3.jpg
     alt: "placeholder image 3"
-  - url: assets/images/posts/brutal_beisl_4.jpg
-    image_path: assets/images/posts/brutal_beisl_4.jpg
-  - url: assets/images/posts/brutal_beisl_5.jpg
-    image_path: assets/images/posts/brutal_beisl_5.jpg
+  # - url: assets/images/posts/brutal_beisl_4.jpg
+  #   image_path: assets/images/posts/brutal_beisl_4.jpg
+  # - url: assets/images/posts/brutal_beisl_5.jpg
+  #   image_path: assets/images/posts/brutal_beisl_5.jpg
 ---
 <a href='https://www.instagram.com/burgerbeislbrutal/'><i class='fab fa-instagram'></i> Instagram</a> <a href='https://www.google.com/maps?q=1060+Wien,+Gumpendorferstraße+33'><i class='fas fa-map-marker-alt'></i> Google Maps</a>
 

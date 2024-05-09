@@ -6,38 +6,105 @@
    Default
    ========================================================================== */
 
+// .sidebar {
+//   @include clearfix();
+//   // @include breakpoint(max-width $large) {
+//   //   /* fix z-index order of follow links */
+//   //   position: relative;
+//   //   z-index: 10;
+//   //   -webkit-transform: translate3d(0, 0, 0);
+//   //   transform: translate3d(0, 0, 0);
+//   // }
+
+//   @include breakpoint($large) {
+//     float: left;
+//     width: calc(#{$right-sidebar-width-narrow} - 1em);
+//     opacity: 0.75;
+//     -webkit-transition: opacity 0.2s ease-in-out;
+//     transition: opacity 0.2s ease-in-out;
+
+//     &:hover {
+//       opacity: 1;
+//     }
+
+//     &.sticky {
+//       overflow-y: auto;
+//       /* calculate height of nav list
+//          viewport height - nav height - masthead x-padding
+//       */
+//       max-height: calc(100vh - #{$nav-height} - 2em);
+//     }
+//   }
+
+//   @include breakpoint($x-large) {
+//     width: calc(#{$right-sidebar-width} - 1em);
+//   }
+
+//   > * {
+//     margin-top: 1em;
+//     margin-bottom: 1em;
+//   }
+
+//   h2,
+//   h3,
+//   h4,
+//   h5,
+//   h6 {
+//     margin-bottom: 0;
+//     font-family: $sans-serif-narrow;
+//   }
+
+//   p,
+//   li {
+//     font-family: $sans-serif;
+//     font-size: $type-size-6;
+//     line-height: 1.5;
+//   }
+
+//   img {
+//     width: 100%;
+
+//     &.emoji {
+//       width: 20px;
+//       height: 20px;
+//     }
+//   }
+//   // New additions for the table displayed in the sidebar
+//   table {
+//     width: 100%; // Ensures the table is always as wide as its container
+//     border-collapse: collapse; // Optional: for a cleaner look
+//     margin-bottom: 1em; // Space below the table
+
+//     th, td {
+//       border: 1px solid #ddd; // Adds borders to cells
+//       padding: 0.5em; // Padding inside cells
+//       text-align: left; // Aligns text to the left
+//     }
+
+//     th {
+//       background-color: #f8f8f8; // Light background for header cells
+//     }
+//   }
+// }
+
 .sidebar {
   @include clearfix();
-  @include breakpoint(max-width $large) {
-    /* fix z-index order of follow links */
-    position: relative;
-    z-index: 10;
-    -webkit-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0);
+  width: 100%; // Default width to 100% for mobile first approach
+  opacity: 0.75;
+  transition: opacity 0.2s ease-in-out;
+
+  &:hover {
+    opacity: 1;
   }
 
   @include breakpoint($large) {
     float: left;
-    width: calc(#{$right-sidebar-width-narrow} - 1em);
-    opacity: 0.75;
-    -webkit-transition: opacity 0.2s ease-in-out;
-    transition: opacity 0.2s ease-in-out;
-
-    &:hover {
-      opacity: 1;
-    }
-
-    &.sticky {
-      overflow-y: auto;
-      /* calculate height of nav list
-         viewport height - nav height - masthead x-padding
-      */
-      max-height: calc(100vh - #{$nav-height} - 2em);
-    }
+    width: calc(#{$right-sidebar-width-narrow} - 1em); // Adjust width as necessary
+    // Additional properties if necessary
   }
 
   @include breakpoint($x-large) {
-    width: calc(#{$right-sidebar-width} - 1em);
+    width: calc(#{$right-sidebar-width} - 1em); // Adjust width as necessary
   }
 
   > * {
@@ -61,28 +128,21 @@
     line-height: 1.5;
   }
 
-  img {
-    width: 100%;
-
-    &.emoji {
-      width: 20px;
-      height: 20px;
-    }
+  // Ensure responsiveness
+  &.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    overflow-y: auto;
+    max-height: calc(100vh - #{$nav-height} - 2em);
   }
-  // New additions for the table displayed in the sidebar
+
   table {
-    width: 100%; // Ensures the table is always as wide as its container
-    border-collapse: collapse; // Optional: for a cleaner look
-    margin-bottom: 1em; // Space below the table
-
+    width: 100%;
+    border-collapse: collapse;
     th, td {
-      border: 1px solid #ddd; // Adds borders to cells
-      padding: 0.5em; // Padding inside cells
-      text-align: left; // Aligns text to the left
-    }
-
-    th {
-      background-color: #f8f8f8; // Light background for header cells
+      border: 1px solid #ddd;
+      padding: 0.5em;
     }
   }
 }

@@ -44,10 +44,10 @@ sidebar:
           </table>"
   - title: "Links"
     text:
-    '<ul>
+    "<ul>
       <li><a href='https://www.instagram.com/burgerbeislbrutal/'><i class='fab fa-instagram'></i> Instagram</a></li>
       <li><a href='https://www.google.com/maps?q=1060+Wien,+Gumpendorferstraße+33'><i class='fas fa-map-marker-alt'></i> Google Maps</a></li>
-    </ul>'
+    </ul>"
 gallery:
   - url: assets/images/posts/brutal_beisl_1.jpg
     image_path: assets/images/posts/brutal_beisl_1.jpg

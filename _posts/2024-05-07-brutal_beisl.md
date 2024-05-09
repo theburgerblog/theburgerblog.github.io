@@ -43,12 +43,10 @@ sidebar:
             </tr>
           </table>"
   - title: "Links"
-    text: "<div class='sidebar-section'>
-            <ul>
-              <li><a href='mailto:florian+burgerblog@pfleiderer.at'><i class='fas fa-envelope'></i> Email</a></li>
-              <li><a href='https://florianpfleiderer.at'><i class='fas fa-link'></i> Website</a></li>
-            </ul>
-          </div>"
+    text: <div class='sidebar-section'>
+            <div><a href='mailto:florian+burgerblog@pfleiderer.at'><i class='fas fa-envelope'></i> Email</a></div>
+            <div><a href='https://florianpfleiderer.at'><i class='fas fa-link'></i> Website</a></div>
+          </div>
 gallery:
   - url: assets/images/posts/brutal_beisl_1.jpg
     image_path: assets/images/posts/brutal_beisl_1.jpg

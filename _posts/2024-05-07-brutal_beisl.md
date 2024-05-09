@@ -26,11 +26,14 @@ sidebar:
   - title: "Optik"
     text: "7,5/10"
 gallery:
-  - image_path: assets/images/posts/brutal_beisl_1.jpg
+  - url: assets/images/posts/brutal_beisl_1.jpg
+    image_path: assets/images/posts/brutal_beisl_1.jpg
     alt: "placeholder image 1"
-  - image_path: assets/images/posts/brutal_beisl_2.jpg
+  - url: assets/images/posts/brutal_beisl_2.jpg
+    image_path: assets/images/posts/brutal_beisl_2.jpg
     alt: "placeholder image 2"
-  - image_path: assets/images/posts/brutal_beisl_3.jpg
+  - url: assets/images/posts/brutal_beisl_3.jpg
+    image_path: assets/images/posts/brutal_beisl_3.jpg
     alt: "placeholder image 3"
 ---
 

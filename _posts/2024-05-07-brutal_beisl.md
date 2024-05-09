@@ -13,8 +13,6 @@ header:
   teaser: /assets/images/posts/brutal_beisl_header.jpg
 excerpt: "Geschmacklich hervorrangender Burger als Takeaway."
 sidebar:
-  # - title: "Öffnungszeiten"
-  #   text: "Mo-Fr: 11:30 - 21:00"
   - title: "Rating"
     text: "<table>
             <tr>
@@ -44,8 +42,8 @@ sidebar:
           </table>"
   - title: "Links"
     text: <div class='sidebar-section'>
-            <div><a href='mailto:florian+burgerblog@pfleiderer.at'><i class='fas fa-envelope'></i> Email</a></div>
-            <div><a href='https://florianpfleiderer.at'><i class='fas fa-link'></i> Website</a></div>
+            <div>"<a href='https://www.instagram.com/burgerbeislbrutal/'><i class='fab fa-instagram'></i> Instagram</a>"
+            <div><a href='https://www.google.com/maps?q=1060+Wien,+Gumpendorferstraße+33'><i class='fas fa-map-marker-alt'></i> Google Maps</a>
           </div>
 gallery:
   - url: assets/images/posts/brutal_beisl_1.jpg

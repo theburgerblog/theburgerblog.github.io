@@ -13,8 +13,8 @@ header:
   teaser: /assets/images/posts/brutal_beisl_header.jpg
 excerpt: "Geschmacklich hervorrangender Burger als Takeaway."
 sidebar:
-  - title: "Öffnungszeiten"
-    text: "Mo-Fr: 11:30 - 21:00"
+  # - title: "Öffnungszeiten"
+  #   text: "Mo-Fr: 11:30 - 21:00"
   - title: "Rating"
     text: "<table>
             <tr>

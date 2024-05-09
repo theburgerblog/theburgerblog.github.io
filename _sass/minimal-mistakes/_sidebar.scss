@@ -69,6 +69,22 @@
       height: 20px;
     }
   }
+  // New additions for the table displayed in the sidebar
+  table {
+    width: 100%; // Ensures the table is always as wide as its container
+    border-collapse: collapse; // Optional: for a cleaner look
+    margin-bottom: 1em; // Space below the table
+
+    th, td {
+      border: 1px solid #ddd; // Adds borders to cells
+      padding: 0.5em; // Padding inside cells
+      text-align: left; // Aligns text to the left
+    }
+
+    th {
+      background-color: #f8f8f8; // Light background for header cells
+    }
+  }
 }
 
 .sidebar__right {

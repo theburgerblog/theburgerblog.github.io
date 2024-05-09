@@ -5,7 +5,7 @@ categories:
   - "1060"
   - Wien
 tags:
-  - Smashed
+  - Smashed-Burger
   - Takeaway
   - Kartenzahlung
 header:

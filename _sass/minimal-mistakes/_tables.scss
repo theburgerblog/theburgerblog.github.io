@@ -89,11 +89,14 @@ th {
     }
   }
 
+  li {
+    display: flex;
+    justify-content: space-between;
+  }
+
   li ul > li a {
     padding-left: 1.25rem;
     font-weight: normal;
-    display: flex;
-    justify-content: space-between;
   }
 
   li ul li ul > li a {

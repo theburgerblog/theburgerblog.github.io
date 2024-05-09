@@ -12,12 +12,26 @@ header:
   image: /assets/images/posts/brutal_beisl_header.jpg
   teaser: /assets/images/posts/brutal_beisl_header.jpg
 excerpt: "Geschmacklich hervorrangender Burger als Takeaway."
+sidebar:
+  - title: "Adresse"
+    text: "<a href="https://www.google.com/maps?q=1060+Wien,+Gumpendorferstraße+33"><i class="fas fa-map-marker-alt"></i> 1060 Wien, Gumpendorferstraße 33</a>"
+  - title: "Instagram"
+    text: "<a href="https://www.instagram.com/burgerbeislbrutal/"><i class="fab fa-instagram"></i> Instagram</a>"
+  - title: "Öffnungszeiten"
+    text: "Mo-Fr: 11:30 - 21:00"
+gallery:
+  - image_path: assets/images/posts/brutal_beisl_1.jpg
+    alt: "placeholder image 1"
+  - image_path: assets/images/posts/brutal_beisl_2.jpg
+    alt: "placeholder image 2"
+  - image_path: assets/images/posts/brutal_beisl_3.jpg
+    alt: "placeholder image 3"
 ---
 
 ### Überblick
 *text fehlt*
 
-### Infos
+<!-- ### Infos
 - **Adresse:** <a href="https://www.google.com/maps?q=1060+Wien,+Gumpendorferstraße+33"><i class="fas fa-map-marker-alt"></i> 1060 Wien, Gumpendorferstraße 33</a>
 - **Social Media:** <a href="https://www.instagram.com/burgerbeislbrutal/"><i class="fab fa-instagram"></i> Instagram</a>
 - **Öffnungszeiten:** Mo-Fr: 11:30 - 21:00
@@ -26,7 +40,7 @@ excerpt: "Geschmacklich hervorrangender Burger als Takeaway."
 - **Parkmöglichkeiten:** Straßenparkplätze in der Nähe
 - **Sitzgelegenheiten:** Keine
 - **Barrierefreiheit:** Nicht barrierefrei
-- **Besonderheiten:** Vegane Optionen verfügbar, Craft-Biere im Angebot
+- **Besonderheiten:** Vegane Optionen verfügbar, Craft-Biere im Angebot -->
 
 ### Rating
 <table>
@@ -57,7 +71,7 @@ Preis für Classic Smashburger mit Pommes 12,90€
 ### Fazit
 *Text fehlt*
 
-![brutal_beisl_3]({{ site.url }}{{ site.baseurl }}/assets/images/posts/brutal_beisl_3.jpg)
+{% include gallery caption="Impressionen unseres Besuchs." %}
 
 ### Overall Score: 8,1
 

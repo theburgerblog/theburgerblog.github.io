@@ -69,19 +69,6 @@
       height: 20px;
     }
   }
-
-  // Add table styling here
-  table {
-    width: 100%;             // Ensures the table uses the full width of the sidebar
-    table-layout: auto;      // Helps with automatic column sizing
-    border-collapse: collapse; // Collapses borders for a cleaner look
-  }
-
-  th, td {
-    padding: 8px;            // Adds padding for cell content
-    text-align: left;        // Aligns text to the left, adjust as needed
-    border-bottom: 1px solid #ddd; // Adds a light border to separate rows
-  }
 }
 
 .sidebar__right {

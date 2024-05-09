@@ -4,17 +4,17 @@ title: "About"
 author_profile: false
 ---
 
-<div class="d-flex flex-wrap justify-content-around">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 {% for author in site.data.authors %}
 
-<div class="card m-2" style="width: 18rem;">
-  <img class="card-img-top" src="{{ author[1].avatar }}" alt="Card image cap">
-  <div class="card-body">
-    <h5 class="card-title">{{ author[1].name }}</h5>
-    <p class="card-text">{{ author[1].bio }}</p>
-    <ul class="list-group list-group-flush">
+<div style="margin: 1rem; width: 18rem; border: 1px solid #000; padding: 1rem;">
+  <img style="width: 100%;" src="{{ author[1].avatar }}" alt="Card image cap">
+  <div>
+    <h5>{{ author[1].name }}</h5>
+    <p>{{ author[1].bio }}</p>
+    <ul style="list-style: none; padding: 0;">
     {% for link in author[1].links %}
-        <li class="list-group-item">
+        <li>
             <a href="{{ link.url }}"><i class="{{ link.icon }}"></i> {{ link.label }}</a>
         </li>
     {% endfor %}

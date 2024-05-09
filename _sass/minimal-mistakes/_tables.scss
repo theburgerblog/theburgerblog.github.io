@@ -82,7 +82,6 @@ th {
     color: $muted-text-color;
     font-weight: bold;
     line-height: 1.5;
-    border-bottom: 1px solid $border-color;
 
     &:hover {
       color: $text-color;
@@ -92,6 +91,7 @@ th {
   li {
     display: flex;
     justify-content: space-between;
+    border-bottom: 1px solid $border-color;
   }
 
   li ul > li a {

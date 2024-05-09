@@ -3,8 +3,7 @@ permalink: /about/
 title: "About"
 author_profile: false
 ---
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+<div id="about-page" style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 {% for author in site.data.authors %}
 
 <div style="margin: 1rem; width: 15rem; border: 1px solid #000; padding: 1rem;">

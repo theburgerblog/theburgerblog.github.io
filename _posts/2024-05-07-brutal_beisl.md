@@ -42,7 +42,7 @@ sidebar:
           </table>"
   - title: "Links"
     text: <div class='sidebar-section'>
-            <div>"<a href='https://www.instagram.com/burgerbeislbrutal/'><i class='fab fa-instagram'></i> Instagram</a>"
+            <div><a href='https://www.instagram.com/burgerbeislbrutal/'><i class='fab fa-instagram'></i> Instagram</a>
             <div><a href='https://www.google.com/maps?q=1060+Wien,+Gumpendorferstraße+33'><i class='fas fa-map-marker-alt'></i> Google Maps</a>
           </div>
 gallery:

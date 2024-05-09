@@ -42,6 +42,8 @@ sidebar:
               <td><strong>8.1/10</strong></td>
             </tr>
           </table>"
+  - title: "Social Media"
+    text: "[Instagram](https://www.instagram.com/burgerbeislbrutal/)"
 gallery:
   - url: assets/images/posts/brutal_beisl_1.jpg
     image_path: assets/images/posts/brutal_beisl_1.jpg

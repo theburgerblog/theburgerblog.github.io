@@ -69,6 +69,7 @@ th {
   width: 100%;
   list-style: none;
   font-size: $type-size-7;
+  font-weight: normal;
   display: flex;
   flex-direction: column;
 
@@ -80,7 +81,7 @@ th {
     display: inline;
     padding: 0.25rem 0.75rem;
     color: $muted-text-color;
-    font-weight: normal;
+    // font-weight: normal;
     line-height: 1.5;
 
     &:hover {

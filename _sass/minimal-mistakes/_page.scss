@@ -47,24 +47,6 @@ body {
     padding-right: $right-sidebar-width;
   }
 
-  // // Spezifische Regel für die "About"-Seite
-  // &.about-page {
-  //   display: flex;
-  //   flex-direction: row;
-  //   width: 100%;
-  //   padding-right: 0;
-    
-  //   @include breakpoint($large) {
-  //     width: 100%;
-  //     padding-right: 0;
-  //   }
-
-  //   @include breakpoint($x-large) {
-  //     width: 100%;
-  //     padding-right: 0;
-  //   }
-  // }
-
   .page__inner-wrap {
     float: left;
     margin-top: 1em;

@@ -38,8 +38,8 @@ sidebar:
             <a>7.5/10</a>
           </li>
           <li class="overall-rating">
-            <a>Overall</a>
-            <a>8.1/10</a>
+            <b>Overall</b>
+            <b>8.1/10</b>
           </li>
         </ul>
       </nav>

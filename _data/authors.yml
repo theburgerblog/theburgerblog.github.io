@@ -1,15 +1,15 @@
 # Authors
 florian:
   name        : "Florian"
-  bio         : "Missing Info here."
-  avatar      : "/assets/images/florian01.png"
+  bio         : "I like Smashed Burger, sports, and more. I study Electrical Engineering. Let me tell you a short story about how I got into burgers..."
+  avatar      : "/assets/images/florian.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:florian+burgerblog@pfleiderer.at"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://florianpfleiderer.at"
+      url: "https://www.florianpfleiderer.at"
 peter:
   name        : "Peter"
   bio         : "I ordered what?"

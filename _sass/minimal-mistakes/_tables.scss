@@ -88,11 +88,6 @@ th {
     }
   }
 
-  b {
-    @extend a;
-    font-weight: bold;
-  }
-
   li {
     display: flex;
     justify-content: space-between;

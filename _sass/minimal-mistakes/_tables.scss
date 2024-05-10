@@ -80,7 +80,7 @@ th {
     display: inline;
     padding: 0.25rem 0.75rem;
     color: $muted-text-color;
-    font-weight: bold;
+    font-weight: normal;
     line-height: 1.5;
 
     &:hover {
@@ -118,5 +118,6 @@ th {
 
 .overall-rating {
   background-color: darken($background-color, 10%);
+  font-weight: bold;
   color: $text-color;
 }

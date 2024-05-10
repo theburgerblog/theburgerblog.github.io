@@ -63,6 +63,11 @@ body {
       width: 100%;
       padding-right: 0;
     }
+
+    @include breakpoint($max-width $x-large) {
+      width: 100%;
+      padding-right: 0;
+    }
   }
 
   .page__inner-wrap {

@@ -26,7 +26,7 @@ feature_row:
   - image_path: /assets/images/burger_header.jpg
     alt: "see locations"
     title: "See Locations."
-    excerpt: "All our visits by locations"
+    excerpt: "All our visits by locations."
     url: "/categories/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      

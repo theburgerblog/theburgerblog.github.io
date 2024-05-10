@@ -68,14 +68,6 @@ body {
     width: 100%;
     clear: both;
 
-    a {
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-
     .page__content,
     .page__meta,
     .page__share {
@@ -151,6 +143,8 @@ body {
   }
 
   a:not(.btn) {
+    text-decoration: none;
+    
     &:hover {
       text-decoration: underline;
 

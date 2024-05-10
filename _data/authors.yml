@@ -2,7 +2,7 @@
 florian:
   name        : "Florian"
   bio         : "I like Smashed Burger, sports, and more. I study Electrical Engineering. Let me tell you a short story about how I got into burgers..."
-  avatar      : "/assets/images/florian.png"
+  avatar      : "/assets/images/florian01.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

@@ -65,6 +65,8 @@ Das Team hinter dem Brutal Döner hat sein Konzept revolutioniert und das besche
 
 ### Allgemeine Informationen
 Wer zum ersten Mal im Brutal Döner ist, sollte sich darüber im Klaren sein, dass die Einrichtung minimalistisch ist, mit Stehtischen, an denen bis zu drei Personen Platz finden. Bereiten Sie sich darauf vor, Ihr Essen mitzunehmen. Jeder Burger ist sorgfältig verpackt und wird in einer praktischen Tragetasche geliefert.
+![image-right](/assets/images/posts/brutal_beisl_5.jpg){: .align-right}
+
 
 ### Kulinarische Köstlichkeiten
 Und nun zum Kern der Sache!

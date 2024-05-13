@@ -81,7 +81,7 @@ Die Pommes frites sind knusprig und anscheinend hausgemacht. Die Portionsgröße
 Neben der Hauptattraktion gibt es noch die Burger Brutal Chicken und Brutal Vegan. Aus dem bescheidenen Kühlschrank des Lokals kann man aus einer Reihe von Spezialbieren wählen. Wir haben uns für Hacker Pschorr und Schladminger Sepp entschieden - beide sehr empfehlenswert!
 
 ### Impressionen
-[Hier Galerie einfügen]
+{% include gallery caption="Impressionen unseres Besuchs." %}
 
 ### Fazit 
 Dieses Lokal hat uns wirklich überrascht. Wir sind mit bescheidenen Erwartungen angereist, nur um unseren neuen Star in der Wiener Smashed-Burger-Szene zu entdecken!

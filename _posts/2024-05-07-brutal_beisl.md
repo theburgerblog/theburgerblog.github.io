@@ -65,8 +65,6 @@ Das Team hinter dem Brutal Döner hat sein Konzept revolutioniert und das besche
 
 ### Allgemeine Informationen
 Wer zum ersten Mal im Brutal Döner ist, sollte sich darüber im Klaren sein, dass die Einrichtung minimalistisch ist, mit Stehtischen, an denen bis zu drei Personen Platz finden. Bereiten Sie sich darauf vor, Ihr Essen mitzunehmen. Jeder Burger ist sorgfältig verpackt und wird in einer praktischen Tragetasche geliefert.
-![image-right](/assets/images/posts/brutal_beisl_5.jpg){: .align-right}
-
 
 ### Kulinarische Köstlichkeiten
 Und nun zum Kern der Sache!
@@ -76,7 +74,7 @@ Zu einem lobenswerten Preis erhält man einen Burger von erheblichem Wert. In kl
 Erstens ist das Brötchen fluffig und weich, eine perfekte Brioche. Dann schmelzen die doppelten Patties mit doppeltem Käse herrlich auf dem Gaumen. Der Käse verdient eine besondere Erwähnung für seine herausragende Qualität.  
 Was den Geschmack anbelangt, so ist der Burger ein wahrer Champion. Seine reichhaltigen, würzigen Untertöne - ob von der Spezialsoße oder dem Patty selbst - bleiben ein köstliches Geheimnis. Auch die Portionsgröße ist durchaus angemessen.
 
-### Pommes und Beilagen* 
+### Pommes und Beilagen
 Die Pommes frites sind knusprig und anscheinend hausgemacht. Die Portionsgröße ist großzügig, vor allem, wenn man den Gesamtpreis von 12,90 € bedenkt. Die Soßen kosten zusätzlich 0,50 €, wobei Ketchup und Mayonnaise zur Auswahl stehen.
 
 ### Ergänzungen der Speisekarte 

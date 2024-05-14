@@ -13,8 +13,8 @@ florian:
 peter:
   name        : "Peter"
   bio         : "I ordered what?"
-  avatar      : "/assets/images/bio-photo.jpg"
+  avatar      : "/assets/images/peter.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cornelius@thewhip.com"
+      url: "mailto:peter-oberwalder+burgerblog@gmx.at"

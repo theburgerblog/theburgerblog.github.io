@@ -7,7 +7,7 @@
    ========================================================================== */
 
 .sidebar {
-  // @include clearfix();
+  @include clearfix();
   // @include breakpoint(max-width $large) {
   //   /* fix z-index order of follow links */
   //   position: relative;
@@ -29,7 +29,6 @@
     // }
 
     &.sticky {
-      @include clearfix();
       overflow-y: auto;
       /* calculate height of nav list
          viewport height - nav height - masthead x-padding
@@ -89,7 +88,7 @@
       @include clearfix();
       position: -webkit-sticky;
       position: sticky;
-      top: 0em;
+      top: 2em;
       float: right;
 
       .toc {

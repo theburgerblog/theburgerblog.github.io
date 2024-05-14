@@ -34,7 +34,7 @@ $header-font-family: $sans-serif !default;
 $caption-font-family: $serif !default;
 
 /* type scale */
-// $type-size-1: 2.441em !default; // ~39.056px
+$type-size-1: 2.441em !default; // ~39.056px
 $type-size-2: 1.953em !default; // ~31.248px
 $type-size-3: 1.563em !default; // ~25.008px
 $type-size-4: 1.25em !default; // ~20px
@@ -43,17 +43,17 @@ $type-size-6: 0.75em !default; // ~12px
 $type-size-7: 0.6875em !default; // ~11px
 $type-size-8: 0.625em !default; // ~10px
 // my changes
-$type-size-1: $type-size-2 !default;
+// $type-size-1: $type-size-2 !default;
 
 /* headline scale */
-// $h-size-1: 1.563em !default; // ~25.008px
+$h-size-1: 1.563em !default; // ~25.008px
 $h-size-2: 1.25em !default; // ~20px
 $h-size-3: 1.125em !default; // ~18px
 $h-size-4: 1.0625em !default; // ~17px
 $h-size-5: 1.03125em !default; // ~16.5px
 $h-size-6: 1em !default; // ~16px
 // my changes
-$h-size-1: $h-size-2 !default;
+// $h-size-1: $h-size-2 !default;
 
 /*
    Colors
@@ -153,7 +153,8 @@ $medium: 768px !default;
 $medium-wide: 900px !default;
 $large: 1024px !default;
 $x-large: 1280px !default;
-$max-width: $x-large !default;
+// $max-width: $x-large !default;
+$max-width: 1440px !default;
 
 /*
    Grid

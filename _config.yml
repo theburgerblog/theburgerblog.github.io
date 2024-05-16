@@ -16,7 +16,7 @@
 
 # theme: "minimal-mistakes-jekyll"
 minimal_mistakes_skin: "air" #, "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-title: TheBurgerBlog.
+title: TheBurgerBlog
 logo: "/assets/images/burger.jpg"
 email: 
 description: Our journey to the best smashed burger in vienna.

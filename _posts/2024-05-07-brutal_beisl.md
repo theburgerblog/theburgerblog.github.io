@@ -66,7 +66,7 @@ gallery:
   #   image_path: assets/images/posts/brutal_beisl_5.jpg
 ---
 <style>
-h3 {
+header {
   margin-top: -10px;
 }
 </style>

@@ -65,8 +65,6 @@ gallery:
   # - url: assets/images/posts/brutal_beisl_5.jpg
   #   image_path: assets/images/posts/brutal_beisl_5.jpg
 ---
-<a href='https://www.instagram.com/burgerbeislbrutal/'><i class='fab fa-instagram'></i> Instagram</a> <a href='https://www.google.com/maps?q=1060+Wien,+Gumpendorferstraße+33'><i class='fas fa-map-marker-alt'></i> Google Maps</a>
-
 ### Übersicht 
 Das Team hinter dem Brutal Döner hat sein Konzept revolutioniert und das bescheidene Lokal in ein Paradies für Burger-Liebhaber verwandelt. Der Charme des Lokals liegt nun in seiner Fähigkeit, ein Lächeln auf das Gesicht eines jeden Burger-Liebhabers zu zaubern.
 

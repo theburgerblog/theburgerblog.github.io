@@ -132,7 +132,7 @@ defaults:
       related: true
       toc: true
       toc_label: "Table of Contents"
-      toc_icon: "burger"
+      toc_icon: "utensils"
       comments: false
 
   # _pages

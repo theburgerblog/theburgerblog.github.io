@@ -11,6 +11,13 @@ tags:
 header:
   image: /assets/images/posts/brutal_beisl_header.jpg
   teaser: /assets/images/posts/brutal_beisl_header.jpg
+  overlay_image: /assets/images/posts/omnom-burger_header.jpg
+  overlay_filter: 0.5
+  actions:
+    - label: "<i class='fab fa-instagram'></i> Instagram"
+      url: "https://www.instagram.com/burgerbeislbrutal"
+    - label: "<i class='fas fa-map-marker-alt'></i> Google Maps"
+      url: "https://www.google.com/maps?q=1060+Wien,+Gumpendorferstraße+33"
 excerpt: "Geschmacklich hervorrangender Burger als Takeaway."
 sidebar:
   - text: |

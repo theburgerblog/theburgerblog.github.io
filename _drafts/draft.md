@@ -1,14 +1,24 @@
 ---
-title: "Title"
-date: JJJJ-MM-DD
+title: "Brutal Beisl"
+date: 2024-05-07
 categories:
-  - Items
+  - "1060"
+  - Wien
 tags:
-  - Smashed / Normal / Bio / Barzahlung / Kartenzahlung / Reservierung / Takeaway
+  - Smashed-Burger
+  - Takeaway
+  - Kartenzahlung
 header:
-  image: /assets/images/posts/...
-  teaser: /assets/images/posts/...
-excerpt: "A unique line of text shown in archive view"
+  image: /assets/images/posts/brutal_beisl_header.jpg
+  teaser: /assets/images/posts/brutal_beisl_header.jpg
+  overlay_image: /assets/images/posts/omnom-burger_header.jpg
+  overlay_filter: 0.5
+  actions:
+    - label: "<i class='fab fa-instagram'></i> Instagram"
+      url: "https://www.instagram.com/burgerbeislbrutal"
+    - label: "<i class='fas fa-map-marker-alt'></i> Google Maps"
+      url: "https://www.google.com/maps?q=1060+Wien,+Gumpendorferstraße+33"
+excerpt: "Geschmacklich hervorrangender Burger als Takeaway."
 sidebar:
   - text: |
       <nav class="ratings-table">
@@ -16,65 +26,67 @@ sidebar:
         <ul class="table__menu">
           <li>
             <a>Preis</a>
-            <a>7.5/10</a>
+            <a>9.0/10</a>
           </li>
           <li>
             <a>Konsistenz</a>
-            <a>6.5/10</a>
+            <a>8.5/10</a>
           </li>
           <li>
             <a>Geschmack</a>
-            <a>8.0/10</a>
+            <a>8.5/10</a>
           </li>
           <li>
             <a>Sättigung</a>
-            <a>9.0/10</a>
+            <a>7.5/10</a>
           </li>
           <li>
             <a>Optik</a>
             <a>7.5/10</a>
           </li>
-          <li>
+          <li class="overall-rating">
             <a>Overall</a>
-            <a>7.7/10</a>
+            <a>8.1/10</a>
           </li>
         </ul>
       </nav>
 gallery:
-  - url: assets/images/posts/...
-    image_path: assets/images/...
+  - url: assets/images/posts/brutal_beisl_1.jpg
+    image_path: assets/images/posts/brutal_beisl_1.jpg
     alt: "placeholder image 1"
-  - url: assets/images/posts/...
-    image_path: assets/images/posts/...
+  - url: assets/images/posts/brutal_beisl_2.jpg
+    image_path: assets/images/posts/brutal_beisl_2.jpg
     alt: "placeholder image 2"
-  - url: assets/images/posts/...
-    image_path: assets/images/posts/...
-    alt: "placeholder 3"
+  - url: assets/images/posts/brutal_beisl_3.jpg
+    image_path: assets/images/posts/brutal_beisl_3.jpg
+    alt: "placeholder image 3"
+  # - url: assets/images/posts/brutal_beisl_4.jpg
+  #   image_path: assets/images/posts/brutal_beisl_4.jpg
+  # - url: assets/images/posts/brutal_beisl_5.jpg
+  #   image_path: assets/images/posts/brutal_beisl_5.jpg
 ---
-<a href='https://www.instagram.com/omnomburger/'><i class='fab fa-instagram'></i> Instagram</a> <a href='https://www.google.com/maps/place/Omnom+Burger/@48.2260784,16.3461829,17z/data=!3m1!4b1!4m6!3m5!1s0x476d078848f45213:0xcda53da08701492b!8m2!3d48.2260785!4d16.3507963!16s%2Fg%2F11gy7fy3mb?entry=ttu'><i class='fas fa-map-marker-alt'></i> Google Maps</a>
+## Übersicht 
+Das Team hinter dem Brutal Döner hat sein Konzept revolutioniert und das bescheidene Lokal in ein Paradies für Burger-Liebhaber verwandelt. Der Charme des Lokals liegt nun in seiner Fähigkeit, ein Lächeln auf das Gesicht eines jeden Burger-Liebhabers zu zaubern.
 
-### Überblick
-*Indulge in the ultimate burger experience at [Your Restaurant Name]! Our signature burger, the [Burger Name], is a masterpiece crafted with only the finest ingredients. Savor a perfectly cooked, juicy beef patty topped with melted cheddar cheese, fresh lettuce, ripe tomatoes, and our special house-made sauce. All these delicious elements are nestled between a freshly baked, buttery brioche bun. Whether you're a burger aficionado or just looking for a satisfying meal, the [Burger Name] promises to deliver an unforgettable taste sensation with every bite. Join us and treat yourself to what many consider the best burger in town!*
+## Allgemeine Informationen
+Wer zum ersten Mal im Brutal Döner ist, sollte sich darüber im Klaren sein, dass die Einrichtung minimalistisch ist, mit Stehtischen, an denen bis zu drei Personen Platz finden. Bereiten Sie sich darauf vor, Ihr Essen mitzunehmen. Jeder Burger ist sorgfältig verpackt und wird in einer praktischen Tragetasche geliefert.
 
-### Allgemeine Infos
-*Indulge in the ultimate burger experience at [Your Restaurant Name]! Our signature burger, the [Burger Name], is a masterpiece crafted with only the finest ingredients. Savor a perfectly cooked, juicy beef patty topped with melted cheddar cheese, fresh lettuce, ripe tomatoes, and our special house-made sauce. All these delicious elements are nestled between a freshly baked, buttery brioche bun. Whether you're a burger aficionado or just looking for a satisfying meal, the [Burger Name] promises to deliver an unforgettable taste sensation with every bite. Join us and treat yourself to what many consider the best burger in town!*
+## Kulinarische Köstlichkeiten
+Und nun zum Kern der Sache!
 
-### Kulinarik
-Nun zum wichtigsten Part dieses Blogeintrags:
+### Der Burger
+Zu einem lobenswerten Preis erhält man einen Burger von erheblichem Wert. In klassischer amerikanischer Manier in Wachspapier verpackt, wirkt er zunächst unscheinbar. Beim Auspacken wird deutlich, dass der Burger eine hausgemachte Ästhetik aufweist. Der cremige, geschmolzene Käse verleitet zum ersten Biss, der auf mehreren Ebenen beeindruckt:  
+Erstens ist das Brötchen fluffig und weich, eine perfekte Brioche. Dann schmelzen die doppelten Patties mit doppeltem Käse herrlich auf dem Gaumen. Der Käse verdient eine besondere Erwähnung für seine herausragende Qualität.  
+Was den Geschmack anbelangt, so ist der Burger ein wahrer Champion. Seine reichhaltigen, würzigen Untertöne - ob von der Spezialsoße oder dem Patty selbst - bleiben ein köstliches Geheimnis. Auch die Portionsgröße ist durchaus angemessen.
 
-#### Der Burger
-*text*
+### Pommes und Beilagen
+Die Pommes frites sind knusprig und anscheinend hausgemacht. Die Portionsgröße ist großzügig, vor allem, wenn man den Gesamtpreis von 12,90 € bedenkt. Die Soßen kosten zusätzlich 0,50 €, wobei Ketchup und Mayonnaise zur Auswahl stehen.
 
-#### Pommes und Beilagen
-*text*
+### Ergänzungen der Speisekarte 
+Neben der Hauptattraktion gibt es noch die Burger Brutal Chicken und Brutal Vegan. Aus dem bescheidenen Kühlschrank des Lokals kann man aus einer Reihe von Spezialbieren wählen. Wir haben uns für Hacker Pschorr und Schladminger Sepp entschieden - beide sehr empfehlenswert!
 
-### Ergänzungen zur Speisekarte
-Preis für Cheeseburger mit Pommes: 18,30€
-Preis für Double Smashburger mit Pomme: 21,30 €
-
-### Impressionen
+## Impressionen
 {% include gallery caption="Impressionen unseres Besuchs." %}
 
-### Fazit:
-*Indulge in the ultimate burger experience at [Your Restaurant Name]! Our signature burger, the [Burger Name], is a masterpiece crafted with only the finest ingredients. Savor a perfectly cooked, juicy beef patty topped with melted cheddar cheese, fresh lettuce, ripe tomatoes, and our special house-made sauce. All these delicious elements are nestled between a freshly baked, buttery brioche bun. Whether you're a burger aficionado or just looking for a satisfying meal, the [Burger Name] promises to deliver an unforgettable taste sensation with every bite. Join us and treat yourself to what many consider the best burger in town!*
-
+## Fazit 
+Dieses Lokal hat uns wirklich überrascht. Wir sind mit bescheidenen Erwartungen angereist, nur um unseren neuen Star in der Wiener Smashed-Burger-Szene zu entdecken!

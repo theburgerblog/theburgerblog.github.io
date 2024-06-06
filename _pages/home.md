@@ -17,7 +17,7 @@ feature_row:
     url: "/1060/wien/brutal_beisl/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/posts/brutal_beisl_header.jpg
+  - image_path: /assets/images/posts/kenks_header.jpg
     title: "Latest Visit."
     excerpt: "View our latest visit."
     url: "/1140/wien/kenks/"

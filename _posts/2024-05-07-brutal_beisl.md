@@ -26,7 +26,7 @@ sidebar:
         <ul class="table__menu">
           <li>
             <a>Preis</a>
-            <a>9.0/10</a>
+            <a>10/10</a>
           </li>
           <li>
             <a>Konsistenz</a>
@@ -46,7 +46,7 @@ sidebar:
           </li>
           <li class="overall-rating">
             <a>Overall</a>
-            <a>8.1/10</a>
+            <a>8.3/10</a>
           </li>
         </ul>
       </nav>
